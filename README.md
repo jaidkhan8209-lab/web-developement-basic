@@ -1,2 +1,2 @@
 # web-developement-basic
-This Is A Html File
+In this repository we will learn basic web development
